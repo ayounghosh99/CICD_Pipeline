@@ -1,0 +1,83 @@
+﻿@{
+    ViewData["Title"] = "Objects";
+}
+@model CICD_PIPELINE_AUTOMATION.Models.Objects;
+<script type="text/javascript">
+    $(function () {
+        $('select').selectpicker();
+    });
+</script>
+<div class="text-center align-items-center">
+    <H2>Choose Candidates for promotion</H2>
+    <form asp-action="PostData">
+        <div>
+            <table style="width:400px;margin:auto">
+                <tr>
+                    <td>
+                        <label>Source Database:</label>
+                    </td>
+                    <td>
+                        <input asp-for="SourceDb" type="text" class="form-control" style="width:200px" value="@ViewBag.sourceDB" readonly />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>Target Database:</label>
+                    </td>
+                    <td>
+                        <input asp-for="TargetDb" type="text" class="form-control" style="width:200px" value="@ViewBag.targetDB" readonly />
+                    </td>
+                </tr>
+            </table>
+            
+            
+        </div>
+        @{
+            int i = 0;
+            foreach (Schema schema in ViewBag.schemas)
+            {
+                <input asp-for="schemas[i].Name" style="width:0px;height:0px;visibility:hidden" type="text" value="@schema.Name"/>
+                <table>
+                    <thead>@schema.Name </thead>
+                    <tr>
+                        <td>
+                            <div class="text-center">
+                                <label class="form-check-label">select tables</label>
+                                <select class="form-control" asp-for="schemas[i].Tables" asp-items="@(new SelectList(schema.Tables))" multiple="multiple" data-live-search="true" data-actions-box="true"></select>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="text-center">
+                                <label class="form-check-label">select Streams</label>
+                                <select class="form-control" asp-for="schemas[i].Streams" data-live-search="true" data-actions-box="true" asp-items="@(new SelectList(schema.Streams))" multiple="multiple"></select>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="text-center">
+                                <label class="form-check-label">select Procedures</label>
+                                <select class="form-control" asp-for="schemas[i].Procedures" data-live-search="true" data-actions-box="true" asp-items="@(new SelectList(schema.Procedures))" multiple="multiple"></select>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="text-center">
+                                <label class="form-check-label">select Tasks</label>
+                                <select class="form-control" asp-for="schemas[i].Tasks" data-live-search="true" data-actions-box="true" asp-items="@(new SelectList(schema.Tasks))" multiple="multiple"></select>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="text-center">
+                                <label class="form-check-label">select Views</label>
+                                <select class="form-control" asp-for="schemas[i].Views" data-live-search="true" data-actions-box="true" style="width:200%" asp-items="@(new SelectList(schema.Views))" multiple="multiple"></select>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                i = i + 1;
+            }
+        }
+        <div>
+            <button type="submit" class="btn btn-success b">Promote</button>
+        </div>
+    </form>
+</div>
+

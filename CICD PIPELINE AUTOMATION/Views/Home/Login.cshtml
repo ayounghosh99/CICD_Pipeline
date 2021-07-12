@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "Login Page";
+}
+@model CICD_PIPELINE_AUTOMATION.Models.SUser;
+
+<div class="text-center">
+    <div id="roledetails" class="align-items-center align-self-center bg-transparent border-info center">
+        <form class="form-group" type='POST'>
+            <table>
+                <tr>
+                    <td>
+                        <label class="form-text">Login url:</label>
+                    </td>
+                    <td>
+                        <input type="text" asp-for="LoginUrl" class="form-control" required value="https://qr87976.east-us-2.azure.snowflakecomputing.com" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label class="form-text">Username</label>
+                    </td>
+                    <td>
+                        <input type="text" asp-for="User" class="form-control" required placeholder="Enter your username" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label class="form-text">Password</label>
+                    </td>
+                    <td>
+                        <input type="password" data-toggle="password" asp-for="Password" class="form-control" required placeholder="Enter your password" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label class="form-text">Role</label>
+                    </td>
+                    <td>
+                        <input type="text" asp-for="Role" class="form-control" required placeholder="Enter RoleName" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Warehouse
+                    </td>
+                    <td>
+                        <input type="text" asp-for="Warehouse" class="form-control" required placeholder="Enter RoleName" />
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><button type="submit" class="btn btn-success">Login</button></td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model CICD_PIPELINE_AUTOMATION.Models.Objects;
+<script type="text/javascript">
+    $(function () {
+        $('#KeyColumns').multiselect({
+            includeSelectAllOption: true
+        });
+        $('#Privilages').multiselect({
+            includeSelectAllOption: false
+        });
+        $('[name="Privilage"]').multiselect({
+            includeSelectAllOption: false
+        });
+        $('#Columns').multiselect({
+            includeSelectAllOption: true
+        });
+
+        var $selects = $('select');
+
+        $selects.on('change', function () {
+            // enable all options
+            $selects.find('option').prop('disabled', false);
+
+            // loop over each select, use its value to
+            // disable the options in the other selects
+            $selects.each(function () {
+                $selects.not(this)
+                    .find('option[value="' + this.value + '"]')
+                    .prop('disabled', true);
+            });
+
+            //});
+        });
+</script>
+<div class="justify-content-center center">
+    <h1 class="display-4">Choose Source and Target Environments</h1>
+    <form asp-action="Items" type='POST'>
+        <label class="form-check-label">Select Source Database</label>
+        <select class="form-control" id="SourceDB" asp-for="SourceDb" style="width:200px;margin:auto" required asp-items="@(new SelectList(ViewBag.databases,"Name","Name"))"></select>
+        <label class="form-check-label">Select Target Database</label>
+        <select class="form-control" id="TargetDB" required asp-for="TargetDb" style="width:200px;margin:auto" asp-items="@(new SelectList(ViewBag.databases,"Name","Name"))"></select>
+        <button type="submit" class="btn btn-success b">Next>></button>
+    </form>
+    @Html.Raw(TempData["msg"])
+</div>
