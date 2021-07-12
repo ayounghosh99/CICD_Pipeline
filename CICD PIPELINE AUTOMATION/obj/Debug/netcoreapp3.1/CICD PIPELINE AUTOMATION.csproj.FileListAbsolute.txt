@@ -65,3 +65,70 @@
 /Users/ayounghosh/Downloads/CICD_PIPELINE_AUTOMATION-master/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.pdb
 /Users/ayounghosh/Downloads/CICD_PIPELINE_AUTOMATION-master/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.genruntimeconfig.cache
 /Users/ayounghosh/Downloads/CICD_PIPELINE_AUTOMATION-master/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index_Delete_.cshtml.g.cs
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.deps.json
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.runtimeconfig.json
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.runtimeconfig.dev.json
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.pdb
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.Views.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.Views.pdb
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/AngleSharp.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/log4net.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/Snowflake.Data.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/System.Windows.Extensions.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.csproj.AssemblyReference.cache
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.AssemblyInfoInputs.cache
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.AssemblyInfo.cs
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.csproj.CoreCompileInputs.cache
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.MvcApplicationPartsAssemblyInfo.cache
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.RazorAssemblyInfo.cache
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.RazorAssemblyInfo.cs
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/staticwebassets/CICD PIPELINE AUTOMATION.StaticWebAssets.Manifest.cache
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/staticwebassets/CICD PIPELINE AUTOMATION.StaticWebAssets.xml
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/scopedcss/bundle/CICD PIPELINE AUTOMATION.styles.css
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.TagHelpers.input.cache
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.TagHelpers.output.cache
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.RazorCoreGenerate.cache
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index_Delete_.cshtml.g.cs
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/Razor/Views/Home/Items.cshtml.g.cs
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/Razor/Views/Home/Login.cshtml.g.cs
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.RazorTargetAssemblyInfo.cache
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.RazorTargetAssemblyInfo.cs
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.Views.pdb
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.csproj.CopyComplete
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.dll
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.pdb
+/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/Debug/netcoreapp3.1/CICD PIPELINE AUTOMATION.genruntimeconfig.cache

@@ -1261,11 +1261,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ayounghosh/Downloads/CICD_PIPELINE_AUTOMATION-master/CICD PIPELINE AUTOMATION/CICD PIPELINE AUTOMATION.csproj",
+      "projectUniqueName": "/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/CICD PIPELINE AUTOMATION.csproj",
       "projectName": "CICD PIPELINE AUTOMATION",
-      "projectPath": "/Users/ayounghosh/Downloads/CICD_PIPELINE_AUTOMATION-master/CICD PIPELINE AUTOMATION/CICD PIPELINE AUTOMATION.csproj",
+      "projectPath": "/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/CICD PIPELINE AUTOMATION.csproj",
       "packagesPath": "/Users/ayounghosh/.nuget/packages/",
-      "outputPath": "/Users/ayounghosh/Downloads/CICD_PIPELINE_AUTOMATION-master/CICD PIPELINE AUTOMATION/obj/",
+      "outputPath": "/Users/ayounghosh/Downloads/CICD_Pipeline/CICD PIPELINE AUTOMATION/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
