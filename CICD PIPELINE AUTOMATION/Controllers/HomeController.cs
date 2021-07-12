@@ -97,7 +97,7 @@ namespace CICD_PIPELINE_AUTOMATION.Controllers
             string conStr = userService.LoginUser(suser);
             if (conStr!=null)
             {
-                return RedirectToAction("Index", new { conStr });
+                return RedirectToAction("Index");
             }
             return View();
         }
